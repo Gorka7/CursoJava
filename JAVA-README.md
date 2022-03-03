@@ -5,14 +5,14 @@ Aprendiendo a programar en Java , podrás encontrar una variedad de ejercicios p
 
 EJERCICIOS
 *******************
-* 1-Arrays        *
-* 2-Bucles        *
-* 3-Condicionales *
-* 4-Matrices      *
-* 5-Metodos       *
-* 6-Operadores    *
-* 7-Scanner       *
-* 8-Variables     *
+* 1-Arrays        
+* 2-Bucles        
+* 3-Condicionales 
+* 4-Matrices      
+* 5-Metodos       
+* 6-Operadores    
+* 7-Scanner       
+* 8-Variables     
 * *****************
 
 Autor : GorkaSanchez
