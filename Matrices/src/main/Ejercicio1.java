@@ -49,13 +49,14 @@ public class Ejercicio1 {
 				System.out.println("Introduce una fila a Modificar");
 				int filamodificar = teclado.nextInt();
 				editarAnimal(filamodificar);
+				System.out.println("Fila modificada con exito");
 				break;
 			// En caso que sea 4
 			case 4:
 				System.out.println("Introduce una fila a Borrar");
 				int filaborrar = teclado.nextInt();
 				for (int j = 0; j < animales[filaborrar].length; j++) {
-					animales[filaborrar][j]=null;
+					animales[filaborrar][j] = null;
 				}
 				break;
 			case 5:
@@ -103,7 +104,8 @@ public class Ejercicio1 {
 		animales[fila][4] = teclado.next();
 		System.out.println("Fecha nacimiento");
 		animales[fila][5] = teclado.next();
-
+		
+		
 		contadorAnimales++;
 	}
 
