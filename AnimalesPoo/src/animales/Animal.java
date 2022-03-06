@@ -14,6 +14,7 @@ public class Animal {
 		
 	}
 	
+	//Constructor
 	public Animal(String nombre, String tipoAnimal, String raza, String color, String nomDueno,
 			String fechaNacimiento) {
 		this.nombre = nombre;
@@ -27,7 +28,7 @@ public class Animal {
 	@Override
 	public String toString() {
 		return "Nombre = " + nombre + " Tipo Animal = " + tipoAnimal + " Raza = " + raza + " Color = " + color
-				+ " Dueño = " + nomDueno + " Fecha Nacimiento= " + fechaNacimiento+".";
+				+ " DueÃ±o = " + nomDueno + " Fecha Nacimiento= " + fechaNacimiento+".";
 	}
 	
 	
