@@ -8,8 +8,10 @@ public class Animal {
 	public String nomDueno;
 	public String fechaNacimiento;
 	
+	//Variable para añadir Animales al Array
 	public static int numeroAnimalesCreados = 0;
 	
+	//Constructor Vacio
 	public Animal() {
 		
 	}
