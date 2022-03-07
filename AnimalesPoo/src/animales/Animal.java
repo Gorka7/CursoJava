@@ -8,15 +8,12 @@ public class Animal {
 	public String nomDueno;
 	public String fechaNacimiento;
 	
-	//Variable para añadir Animales al Array
 	public static int numeroAnimalesCreados = 0;
 	
-	//Constructor Vacio
 	public Animal() {
 		
 	}
 	
-	//Constructor
 	public Animal(String nombre, String tipoAnimal, String raza, String color, String nomDueno,
 			String fechaNacimiento) {
 		this.nombre = nombre;
@@ -29,8 +26,8 @@ public class Animal {
 
 	@Override
 	public String toString() {
-		return "Nombre = " + nombre + " Tipo Animal = " + tipoAnimal + " Raza = " + raza + " Color = " + color
-				+ " Dueño = " + nomDueno + " Fecha Nacimiento= " + fechaNacimiento+".";
+		return "Nombre= " + nombre + ", Tipo Animal= " + tipoAnimal + ", Raza= " + raza + ", Color= " + color
+				+ ", Due�o= " + nomDueno + ", Fecha Nacimiento= " + fechaNacimiento;
 	}
 	
 	
