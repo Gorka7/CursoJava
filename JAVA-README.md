@@ -14,7 +14,7 @@ EJERCICIOS
 * 7-Metodos       
 * 8-Operadores    
 * 9-PajarosPoo ( )       
-* 10-PilaresPoo (Los pilares Basicos de la Programación Orientada a Objetos)
+* 10-PilaresPoo ( Los pilares Basicos de la Programación Orientada a Objetos )
 *       Polimorfismo : 2 Metodos iguales en diferentes Clases
 *     - Sobrecarga : 2 Metodos iguales en la misma clase , pero con diferentes parametros o en diferente orden.
 *     - Herencia : Heredar atributos del padre para reutilizar codigo.
